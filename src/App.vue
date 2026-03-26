@@ -2,7 +2,7 @@
 import { ref, computed } from 'vue'
 
 // --- State ---
-const filamentPrice = ref(1500)
+const filamentPrice = ref(1000)
 const weight = ref(120)
 const printTime = ref(4.5)
 const powerDraw = ref(80)
